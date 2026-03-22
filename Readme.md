@@ -72,3 +72,5 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## output:
+![output](a1.png)

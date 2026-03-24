@@ -73,5 +73,5 @@ Your report should include:
 
 ---
 ## output:
-![output](a2.jpeg)
+![output](o2.jpeg)
 ![output](a1.png)

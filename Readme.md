@@ -73,9 +73,7 @@ Your report should include:
 
 ---
 ## output:
-<<<<<<< HEAD
-![output](b2.jpeg)
-=======
 
->>>>>>> 1a608ce91a8a757f990f8b3af1b3ff6d1d200db6
+![output](b2.jpeg)
+
 ![output](b1.png)

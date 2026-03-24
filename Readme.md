@@ -62,7 +62,7 @@ Steps:
 
 ---
 
-## Report
+## Report:
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
 - Screenshots or displays of simulation results:  
@@ -73,5 +73,9 @@ Your report should include:
 
 ---
 ## output:
+<<<<<<< HEAD
 ![output](a2.jpeg)
+=======
+![output](o2.jpeg)
+>>>>>>> 1a608ce91a8a757f990f8b3af1b3ff6d1d200db6
 ![output](a1.png)

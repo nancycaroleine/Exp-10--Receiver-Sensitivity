@@ -62,7 +62,7 @@ Steps:
 
 ---
 
-## Report
+## Report:
 Your report should include:
 - Pre-lab calculations (attach handwritten work if applicable).  
 - Screenshots or displays of simulation results:  

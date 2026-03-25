@@ -53,6 +53,9 @@ Power meters are placed:
 
 ---
 
+# Block diagram:
+![output](b3.png)
+
 ## Simulation
 Steps:
 1. Adjust output power to **0 dBm**.  
